@@ -11,7 +11,14 @@ Devexpress araç ve bileşenleri ile birlikte projenin görsel arayüzü özelle
 ### Görsel
 
 <p align="left">
-  <img src="">
+  <img src="https://telegra.ph/file/141a096f6feeab8c31656.png">
+  <img src="https://telegra.ph/file/c4fc216a6d950fd66fda3.png">
+  <img src="https://telegra.ph/file/deeecdb422a11aea25440.png">
+  <img src="https://telegra.ph/file/c59b52ab615325ba01eb9.png">
+  <img src="https://telegra.ph/file/573adea2fef7e017711b1.png">
+  <img src="https://telegra.ph/file/e98bb96192e052bec02f3.png">
+  <img src="https://telegra.ph/file/52ba8d49d9d9a5ea44d2a.png">
+  <img src="https://telegra.ph/file/a3e468a9c182fc274fed4.png">
 </p>
 
 ## <a name="license">Lisans</a>
